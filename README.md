@@ -1,5 +1,4 @@
-
-#Tic-Tac-Toe Project Description:
+# Tic-Tac-Toe Project Description:
 
 Welcome to our exciting Tic-Tac-Toe game project developed using JavaScript, HTML, and CSS! This classic game offers a visually appealing and user-friendly interface for an immersive gaming experience. Here's a detailed overview of the project:
 
